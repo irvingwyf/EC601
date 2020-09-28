@@ -1,0 +1,2600 @@
+{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sat Sep 26 00:12:44 +0000 2020", 
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    73, 
+                    84
+                ], 
+                "text": "Census2020"
+            }
+        ], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/UcCGhleEDh", 
+                "expanded_url": "https://twitter.com/RobertDowneyJr/status/1309647053459349504/video/1", 
+                "id": 1309646417477074945, 
+                "id_str": "1309646417477074945", 
+                "indices": [
+                    86, 
+                    109
+                ], 
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1309646417477074945/img/B8wHAEHV3nyx1PGi.jpg", 
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1309646417477074945/img/B8wHAEHV3nyx1PGi.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 720, 
+                        "resize": "fit", 
+                        "w": 1316
+                    }, 
+                    "medium": {
+                        "h": 657, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "small": {
+                        "h": 372, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/UcCGhleEDh"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": []
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "additional_media_info": {
+                    "description": "", 
+                    "embeddable": true, 
+                    "monetizable": false, 
+                    "title": ""
+                }, 
+                "display_url": "pic.twitter.com/UcCGhleEDh", 
+                "expanded_url": "https://twitter.com/RobertDowneyJr/status/1309647053459349504/video/1", 
+                "id": 1309646417477074945, 
+                "id_str": "1309646417477074945", 
+                "indices": [
+                    86, 
+                    109
+                ], 
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1309646417477074945/img/B8wHAEHV3nyx1PGi.jpg", 
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1309646417477074945/img/B8wHAEHV3nyx1PGi.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 720, 
+                        "resize": "fit", 
+                        "w": 1316
+                    }, 
+                    "medium": {
+                        "h": 657, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "small": {
+                        "h": 372, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "video", 
+                "url": "https://t.co/UcCGhleEDh", 
+                "video_info": {
+                    "aspect_ratio": [
+                        329, 
+                        180
+                    ], 
+                    "duration_millis": 89933, 
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL", 
+                            "url": "https://video.twimg.com/amplify_video/1309646417477074945/pl/bSH-4fovzQVjlWFH.m3u8?tag=13"
+                        }, 
+                        {
+                            "bitrate": 832000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/amplify_video/1309646417477074945/vid/658x360/esP0PiOhPw4TKCnb.mp4?tag=13"
+                        }, 
+                        {
+                            "bitrate": 288000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/amplify_video/1309646417477074945/vid/492x270/2gJ5tJUSohNmwqg2.mp4?tag=13"
+                        }, 
+                        {
+                            "bitrate": 2176000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/amplify_video/1309646417477074945/vid/1316x720/8W_uXgOmmd8aZEri.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ]
+    }, 
+    "favorite_count": 9897, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1309647053459349504, 
+    "id_str": "1309647053459349504", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 776, 
+    "retweeted": false, 
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+    "text": "I\u2019ve got questions. Alfre Woodard has the answers. Census ends Sept. 30. #Census2020. https://t.co/UcCGhleEDh", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Wed Sep 23 16:59:18 +0000 2020", 
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0, 
+                    15
+                ], 
+                "text": "FuzzytheAlpaca"
+            }, 
+            {
+                "indices": [
+                    46, 
+                    54
+                ], 
+                "text": "TheBond"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1308813203619549184", 
+                "indices": [
+                    116, 
+                    139
+                ], 
+                "url": "https://t.co/pCjLgrWXy0"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 17842366, 
+                "id_str": "17842366", 
+                "indices": [
+                    67, 
+                    77
+                ], 
+                "name": "Discovery", 
+                "screen_name": "Discovery"
+            }
+        ]
+    }, 
+    "favorite_count": 41563, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1308813203619549184, 
+    "id_str": "1308813203619549184", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 3210, 
+    "retweeted": false, 
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+    "text": "#FuzzytheAlpaca has an exciting announcement. #TheBond will air on @Discovery! Our series dives in to the wondrous\u2026 https://t.co/pCjLgrWXy0", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sat Sep 19 00:28:41 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HLtKG7qdnp", 
+                "expanded_url": "https://twitter.com/RobertDowneyJr/status/1307114353087385601/photo/1", 
+                "id": 1307114339699232768, 
+                "id_str": "1307114339699232768", 
+                "indices": [
+                    102, 
+                    125
+                ], 
+                "media_url": "http://pbs.twimg.com/media/EiPNkQqXkAA6Y3R.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/EiPNkQqXkAA6Y3R.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 1200, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "medium": {
+                        "h": 1200, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/HLtKG7qdnp"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": []
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HLtKG7qdnp", 
+                "expanded_url": "https://twitter.com/RobertDowneyJr/status/1307114353087385601/photo/1", 
+                "id": 1307114339699232768, 
+                "id_str": "1307114339699232768", 
+                "indices": [
+                    102, 
+                    125
+                ], 
+                "media_url": "http://pbs.twimg.com/media/EiPNkQqXkAA6Y3R.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/EiPNkQqXkAA6Y3R.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 1200, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "medium": {
+                        "h": 1200, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/HLtKG7qdnp"
+            }
+        ]
+    }, 
+    "favorite_count": 96183, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1307114353087385601, 
+    "id_str": "1307114353087385601", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 11320, 
+    "retweeted": false, 
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+    "text": "\"Fight for the things you care about, but do it in a way that will lead others to join you.\" RIP, RBG https://t.co/HLtKG7qdnp", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Wed Sep 16 21:13:29 +0000 2020", 
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    85, 
+                    103
+                ], 
+                "text": "StopHateForProfit"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1306340455412502529", 
+                "indices": [
+                    105, 
+                    128
+                ], 
+                "url": "https://t.co/TJzOejfGT0"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 15864, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1306340455412502529, 
+    "id_str": "1306340455412502529", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1423, 
+    "retweeted": false, 
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+    "text": "It's time to stop hate, bigotry, and disinformation. Freeze Instagram today with me. #StopHateForProfit\u2026 https://t.co/TJzOejfGT0", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Fri Sep 04 21:56:24 +0000 2020", 
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    88, 
+                    98
+                ], 
+                "text": "TeamStark"
+            }, 
+            {
+                "indices": [
+                    99, 
+                    115
+                ], 
+                "text": "ChadwickForever"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "AGBOSuperheroLeague.com", 
+                "expanded_url": "http://www.AGBOSuperheroLeague.com", 
+                "indices": [
+                    33, 
+                    56
+                ], 
+                "url": "https://t.co/2HnUw1F5gG"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 1166045824305885184, 
+                "id_str": "1166045824305885184", 
+                "indices": [
+                    71, 
+                    82
+                ], 
+                "name": "AGBO Superhero League", 
+                "screen_name": "agboleague"
+            }
+        ]
+    }, 
+    "favorite_count": 3717, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1302002598845845507, 
+    "id_str": "1302002598845845507", 
+    "in_reply_to_screen_name": "RobertDowneyJr", 
+    "in_reply_to_status_id": 1302002031268450306, 
+    "in_reply_to_status_id_str": "1302002031268450306", 
+    "in_reply_to_user_id": 47786101, 
+    "in_reply_to_user_id_str": "47786101", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 283, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "Watch all the action play out on https://t.co/2HnUw1F5gG. Peep out the @agboleague page #TeamStark #ChadwickForever", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Fri Sep 04 21:55:48 +0000 2020", 
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21, 
+                    29
+                ], 
+                "text": "FanDuel"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1302002449620893700", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/5I1oMXYEXF"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 1136758703380619264, 
+                "id_str": "1136758703380619264", 
+                "indices": [
+                    97, 
+                    110
+                ], 
+                "name": "Footprint Coalition", 
+                "screen_name": "fp_coalition"
+            }
+        ]
+    }, 
+    "favorite_count": 7001, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1302002449620893700, 
+    "id_str": "1302002449620893700", 
+    "in_reply_to_screen_name": "RobertDowneyJr", 
+    "in_reply_to_status_id": 1302002031268450306, 
+    "in_reply_to_status_id_str": "1302002031268450306", 
+    "in_reply_to_user_id": 47786101, 
+    "in_reply_to_user_id_str": "47786101", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 563, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "This year, thanks to #FanDuel the stakes are higher than ever before ! There\u2019s $1M in prizes and @fp_coalition is m\u2026 https://t.co/5I1oMXYEXF", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Fri Sep 04 21:54:08 +0000 2020", 
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    50, 
+                    70
+                ], 
+                "text": "AGBOSuperheroLeague"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1302002031268450306", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/uxQ8JIrUq8"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 34418, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1302002031268450306, 
+    "id_str": "1302002031268450306", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 3080, 
+    "retweeted": false, 
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+    "text": "And we\u2019re back...let the trash talking begin. The #AGBOSuperheroLeague has assembled some of my closest friends and\u2026 https://t.co/uxQ8JIrUq8", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Tue Sep 01 18:47:10 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1300867812735344642", 
+                "indices": [
+                    114, 
+                    137
+                ], 
+                "url": "https://t.co/lPcKwxumLK"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 1278073790056955905, 
+                "id_str": "1278073790056955905", 
+                "indices": [
+                    90, 
+                    100
+                ], 
+                "name": "\u201cSmartLess\u201d", 
+                "screen_name": "SmartLess"
+            }
+        ]
+    }, 
+    "favorite_count": 18076, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1300867812735344642, 
+    "id_str": "1300867812735344642", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1282, 
+    "retweeted": false, 
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+    "text": "I was able to practice safe distancing protocols and participate in the latest episode of @smartless...out now !\u2026 https://t.co/lPcKwxumLK", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sat Aug 29 18:13:16 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1299772119803330560", 
+                "indices": [
+                    116, 
+                    139
+                ], 
+                "url": "https://t.co/dhskXad2cE"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 525764, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1299772119803330560, 
+    "id_str": "1299772119803330560", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 79942, 
+    "retweeted": false, 
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+    "text": "Mr. Boseman leveled the playing field while fighting for his life... That\u2019s heroism. I\u2019ll remember the good times,\u2026 https://t.co/dhskXad2cE", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Fri Aug 14 16:51:19 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "evocinemas.com/driveinfilmfest", 
+                "expanded_url": "https://www.evocinemas.com/driveinfilmfest", 
+                "indices": [
+                    0, 
+                    23
+                ], 
+                "url": "https://t.co/l8NvrQYkAH"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 3051, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1294315677558296577, 
+    "id_str": "1294315677558296577", 
+    "in_reply_to_screen_name": "RobertDowneyJr", 
+    "in_reply_to_status_id": 1294315434355773440, 
+    "in_reply_to_status_id_str": "1294315434355773440", 
+    "in_reply_to_user_id": 47786101, 
+    "in_reply_to_user_id_str": "47786101", 
+    "is_quote_status": false, 
+    "lang": "und", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 144, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "https://t.co/l8NvrQYkAH", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Fri Aug 14 16:50:21 +0000 2020", 
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    24, 
+                    43
+                ], 
+                "text": "AnthonyMichaelHall"
+            }, 
+            {
+                "indices": [
+                    67, 
+                    76
+                ], 
+                "text": "classics"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1294315434355773440", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/kySCq7dmkA"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 11264, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1294315434355773440, 
+    "id_str": "1294315434355773440", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 720, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "Look what we have here! #AnthonyMichaelHall has unearthed a couple #classics from our limited list... Please come o\u2026 https://t.co/kySCq7dmkA", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Tue Aug 11 20:29:48 +0000 2020", 
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0, 
+                    8
+                ], 
+                "text": "Brother"
+            }, 
+            {
+                "indices": [
+                    27, 
+                    34
+                ], 
+                "text": "summer"
+            }, 
+            {
+                "indices": [
+                    84, 
+                    92
+                ], 
+                "text": "riderad"
+            }, 
+            {
+                "indices": [
+                    94, 
+                    101
+                ], 
+                "text": "ebikes"
+            }, 
+            {
+                "indices": [
+                    102, 
+                    112
+                ], 
+                "text": "radrunner"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1293283495481995264", 
+                "indices": [
+                    114, 
+                    137
+                ], 
+                "url": "https://t.co/CltXrYsDCQ"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 22799750, 
+                "id_str": "22799750", 
+                "indices": [
+                    9, 
+                    20
+                ], 
+                "name": "Christopher C. Cuomo", 
+                "screen_name": "ChrisCuomo"
+            }, 
+            {
+                "id": 3082211776, 
+                "id_str": "3082211776", 
+                "indices": [
+                    65, 
+                    79
+                ], 
+                "name": "Rad Power Bikes", 
+                "screen_name": "RadPowerBikes"
+            }
+        ]
+    }, 
+    "favorite_count": 22174, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1293283495481995264, 
+    "id_str": "1293283495481995264", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1184, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "#Brother @ChrisCuomo and I #summer lovin\u2019 and appreciating these @RadPowerBikes ... #riderad  #ebikes #radrunner\u2026 https://t.co/CltXrYsDCQ", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Aug 09 21:16:27 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1292570460266221568", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/hqVw4snBMC"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 1220212278144000001, 
+                "id_str": "1220212278144000001", 
+                "indices": [
+                    64, 
+                    78
+                ], 
+                "name": "Perry Mason HBO", 
+                "screen_name": "PerryMasonHBO"
+            }, 
+            {
+                "id": 15635604, 
+                "id_str": "15635604", 
+                "indices": [
+                    89, 
+                    93
+                ], 
+                "name": "HBO", 
+                "screen_name": "HBO"
+            }
+        ]
+    }, 
+    "favorite_count": 13442, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1292570460266221568, 
+    "id_str": "1292570460266221568", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 905, 
+    "retweeted": false, 
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+    "text": "It\u2019s all been leading to this! Tune in for the SEASON FINALE of @perrymasonhbo at 9pm on @hbo ...stick around and L\u2026 https://t.co/hqVw4snBMC", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Fri Aug 07 19:00:00 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1291811347739615237", 
+                "indices": [
+                    121, 
+                    144
+                ], 
+                "url": "https://t.co/ErQ9IkcpR0"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 1220212278144000001, 
+                "id_str": "1220212278144000001", 
+                "indices": [
+                    100, 
+                    114
+                ], 
+                "name": "Perry Mason HBO", 
+                "screen_name": "PerryMasonHBO"
+            }
+        ]
+    }, 
+    "favorite_count": 14514, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1291811347739615237, 
+    "id_str": "1291811347739615237", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1199, 
+    "retweeted": false, 
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+    "text": "SPOILER ALERT! Tune in for a Q&amp;A with Matthew Rhys and me before you watch the season finale of @perrymasonhbo this\u2026 https://t.co/ErQ9IkcpR0", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Fri Jul 31 18:01:12 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1289259832592105473", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/oPBvAhl5JH"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 15960, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1289259832592105473, 
+    "id_str": "1289259832592105473", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1307, 
+    "retweeted": false, 
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+    "text": "Please join Susan Downey and her semi-articulate husband as they discuss Mr. Masons journey from P.I to Esq., and h\u2026 https://t.co/oPBvAhl5JH", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Jul 26 23:14:42 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1287526789707776000", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/ch6ta5kYr1"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 1220212278144000001, 
+                "id_str": "1220212278144000001", 
+                "indices": [
+                    29, 
+                    43
+                ], 
+                "name": "Perry Mason HBO", 
+                "screen_name": "PerryMasonHBO"
+            }, 
+            {
+                "id": 15635604, 
+                "id_str": "15635604", 
+                "indices": [
+                    55, 
+                    59
+                ], 
+                "name": "HBO", 
+                "screen_name": "HBO"
+            }
+        ]
+    }, 
+    "favorite_count": 23966, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1287526789707776000, 
+    "id_str": "1287526789707776000", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1323, 
+    "retweeted": false, 
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+    "text": "Tonight, court\u2019s in session. @PerryMasonHBO at 9 PM on @HBO. The missus and I are getting ready with a few bits and\u2026 https://t.co/ch6ta5kYr1", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Jul 26 16:14:55 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1287421146673975298", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/FPPt08APzA"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 32554, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1287421146673975298, 
+    "id_str": "1287421146673975298", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 3378, 
+    "retweeted": false, 
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+    "text": "Friends don't let friends skip elections. Text FRIENDS to 26797 to make sure you are registered. And tag your frien\u2026 https://t.co/FPPt08APzA", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Thu Jul 23 15:53:08 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/DavidDobrik/st\u2026", 
+                "expanded_url": "https://twitter.com/DavidDobrik/status/1284556368884580352", 
+                "indices": [
+                    63, 
+                    86
+                ], 
+                "url": "https://t.co/MSoZjr3VdL"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 325306055, 
+                "id_str": "325306055", 
+                "indices": [
+                    5, 
+                    17
+                ], 
+                "name": "DAVID DOBRIK", 
+                "screen_name": "DavidDobrik"
+            }
+        ]
+    }, 
+    "favorite_count": 640669, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1286328502501830656, 
+    "id_str": "1286328502501830656", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": true, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "quoted_status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Jul 18 18:31:18 +0000 2020", 
+        "entities": {
+            "hashtags": [], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/pd0YuSvapl", 
+                    "expanded_url": "https://twitter.com/DavidDobrik/status/1284556368884580352/video/1", 
+                    "id": 1284556331576262657, 
+                    "id_str": "1284556331576262657", 
+                    "indices": [
+                        55, 
+                        78
+                    ], 
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284556331576262657/pu/img/0ypIuhGZ5m-wUNl-.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284556331576262657/pu/img/0ypIuhGZ5m-wUNl-.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 1280, 
+                            "resize": "fit", 
+                            "w": 720
+                        }, 
+                        "medium": {
+                            "h": 1200, 
+                            "resize": "fit", 
+                            "w": 675
+                        }, 
+                        "small": {
+                            "h": 680, 
+                            "resize": "fit", 
+                            "w": 383
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/pd0YuSvapl"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false
+                    }, 
+                    "display_url": "pic.twitter.com/pd0YuSvapl", 
+                    "expanded_url": "https://twitter.com/DavidDobrik/status/1284556368884580352/video/1", 
+                    "id": 1284556331576262657, 
+                    "id_str": "1284556331576262657", 
+                    "indices": [
+                        55, 
+                        78
+                    ], 
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284556331576262657/pu/img/0ypIuhGZ5m-wUNl-.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284556331576262657/pu/img/0ypIuhGZ5m-wUNl-.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 1280, 
+                            "resize": "fit", 
+                            "w": 720
+                        }, 
+                        "medium": {
+                            "h": 1200, 
+                            "resize": "fit", 
+                            "w": 675
+                        }, 
+                        "small": {
+                            "h": 680, 
+                            "resize": "fit", 
+                            "w": 383
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "video", 
+                    "url": "https://t.co/pd0YuSvapl", 
+                    "video_info": {
+                        "aspect_ratio": [
+                            9, 
+                            16
+                        ], 
+                        "duration_millis": 11979, 
+                        "variants": [
+                            {
+                                "bitrate": 2176000, 
+                                "content_type": "video/mp4", 
+                                "url": "https://video.twimg.com/ext_tw_video/1284556331576262657/pu/vid/720x1280/Zw8RGvTFX_XB0wVN.mp4?tag=10"
+                            }, 
+                            {
+                                "bitrate": 632000, 
+                                "content_type": "video/mp4", 
+                                "url": "https://video.twimg.com/ext_tw_video/1284556331576262657/pu/vid/320x568/9esl16IUHAAQRrxW.mp4?tag=10"
+                            }, 
+                            {
+                                "content_type": "application/x-mpegURL", 
+                                "url": "https://video.twimg.com/ext_tw_video/1284556331576262657/pu/pl/cjA7iukkfkoMRFgS.m3u8?tag=10"
+                            }, 
+                            {
+                                "bitrate": 832000, 
+                                "content_type": "video/mp4", 
+                                "url": "https://video.twimg.com/ext_tw_video/1284556331576262657/pu/vid/360x640/gTVoQXAny6Jz8y3W.mp4?tag=10"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }, 
+        "favorite_count": 834239, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 1284556368884580352, 
+        "id_str": "1284556368884580352", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 100098, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "I waited 3 months for this to come in the mail hahahah https://t.co/pd0YuSvapl", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue Jun 28 02:34:49 +0000 2011", 
+            "default_profile": true, 
+            "default_profile_image": false, 
+            "description": "Sexy, Gorgeous, and Humble", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }, 
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "fanjoy.co/dobrik", 
+                            "expanded_url": "http://fanjoy.co/dobrik", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "url": "https://t.co/n3RHdYNUKV"
+                        }
+                    ]
+                }
+            }, 
+            "favourites_count": 28915, 
+            "follow_request_sent": false, 
+            "followers_count": 5505271, 
+            "following": false, 
+            "friends_count": 346, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 325306055, 
+            "id_str": "325306055", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": null, 
+            "listed_count": 1553, 
+            "location": "Los Angeles ", 
+            "name": "DAVID DOBRIK", 
+            "notifications": false, 
+            "profile_background_color": "C0DEED", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_tile": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/325306055/1580590065", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1223706175910211584/tmu8d9fA_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223706175910211584/tmu8d9fA_normal.jpg", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "DavidDobrik", 
+            "statuses_count": 212, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": "https://t.co/n3RHdYNUKV", 
+            "utc_offset": null, 
+            "verified": true
+        }
+    }, 
+    "quoted_status_id": 1284556368884580352, 
+    "quoted_status_id_str": "1284556368884580352", 
+    "retweet_count": 54411, 
+    "retweeted": false, 
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+    "text": "HBD, @DavidDobrik. Careful with that one\u2026 But not too careful. https://t.co/MSoZjr3VdL", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Wed Jul 22 18:12:35 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/0r3Y062VfL", 
+                "expanded_url": "https://twitter.com/RobertDowneyJr/status/1286001207501193218/video/1", 
+                "id": 1286000634999660544, 
+                "id_str": "1286000634999660544", 
+                "indices": [
+                    65, 
+                    88
+                ], 
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1286000634999660544/img/GSllGvdvBkfMnEIm.jpg", 
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1286000634999660544/img/GSllGvdvBkfMnEIm.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 720, 
+                        "resize": "fit", 
+                        "w": 720
+                    }, 
+                    "medium": {
+                        "h": 720, 
+                        "resize": "fit", 
+                        "w": 720
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/0r3Y062VfL"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": [
+            {
+                "id": 1220212278144000001, 
+                "id_str": "1220212278144000001", 
+                "indices": [
+                    16, 
+                    30
+                ], 
+                "name": "Perry Mason HBO", 
+                "screen_name": "PerryMasonHBO"
+            }, 
+            {
+                "id": 15635604, 
+                "id_str": "15635604", 
+                "indices": [
+                    60, 
+                    64
+                ], 
+                "name": "HBO", 
+                "screen_name": "HBO"
+            }
+        ]
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "additional_media_info": {
+                    "description": "", 
+                    "embeddable": true, 
+                    "monetizable": false, 
+                    "title": ""
+                }, 
+                "display_url": "pic.twitter.com/0r3Y062VfL", 
+                "expanded_url": "https://twitter.com/RobertDowneyJr/status/1286001207501193218/video/1", 
+                "id": 1286000634999660544, 
+                "id_str": "1286000634999660544", 
+                "indices": [
+                    65, 
+                    88
+                ], 
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1286000634999660544/img/GSllGvdvBkfMnEIm.jpg", 
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1286000634999660544/img/GSllGvdvBkfMnEIm.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 720, 
+                        "resize": "fit", 
+                        "w": 720
+                    }, 
+                    "medium": {
+                        "h": 720, 
+                        "resize": "fit", 
+                        "w": 720
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "video", 
+                "url": "https://t.co/0r3Y062VfL", 
+                "video_info": {
+                    "aspect_ratio": [
+                        1, 
+                        1
+                    ], 
+                    "duration_millis": 10093, 
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL", 
+                            "url": "https://video.twimg.com/amplify_video/1286000634999660544/pl/L7Sx5-MAhgSyZoHx.m3u8?tag=13"
+                        }, 
+                        {
+                            "bitrate": 832000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/amplify_video/1286000634999660544/vid/480x480/x02KbtH3Dj-W_Fp-.mp4?tag=13"
+                        }, 
+                        {
+                            "bitrate": 432000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/amplify_video/1286000634999660544/vid/320x320/x5IW0zYezMjfWOQS.mp4?tag=13"
+                        }, 
+                        {
+                            "bitrate": 1280000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/amplify_video/1286000634999660544/vid/720x720/nJT7HwflEvSz05bp.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ]
+    }, 
+    "favorite_count": 14619, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1286001207501193218, 
+    "id_str": "1286001207501193218", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 931, 
+    "retweeted": false, 
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+    "text": "The jury is in: @PerryMasonHBO will be back for Season 2 on @HBO https://t.co/0r3Y062VfL", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Jul 19 20:35:30 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TojSAYy2Fv", 
+                "expanded_url": "https://twitter.com/RobertDowneyJr/status/1284950012246425600/video/1", 
+                "id": 1284949462901641216, 
+                "id_str": "1284949462901641216", 
+                "indices": [
+                    82, 
+                    105
+                ], 
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1284949462901641216/img/3b7Ie3pLgjPyKaJa.jpg", 
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1284949462901641216/img/3b7Ie3pLgjPyKaJa.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 640, 
+                        "resize": "fit", 
+                        "w": 640
+                    }, 
+                    "medium": {
+                        "h": 640, 
+                        "resize": "fit", 
+                        "w": 640
+                    }, 
+                    "small": {
+                        "h": 640, 
+                        "resize": "fit", 
+                        "w": 640
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/TojSAYy2Fv"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": [
+            {
+                "id": 1220212278144000001, 
+                "id_str": "1220212278144000001", 
+                "indices": [
+                    37, 
+                    51
+                ], 
+                "name": "Perry Mason HBO", 
+                "screen_name": "PerryMasonHBO"
+            }, 
+            {
+                "id": 15635604, 
+                "id_str": "15635604", 
+                "indices": [
+                    76, 
+                    80
+                ], 
+                "name": "HBO", 
+                "screen_name": "HBO"
+            }
+        ]
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "additional_media_info": {
+                    "description": "", 
+                    "embeddable": true, 
+                    "monetizable": false, 
+                    "title": ""
+                }, 
+                "display_url": "pic.twitter.com/TojSAYy2Fv", 
+                "expanded_url": "https://twitter.com/RobertDowneyJr/status/1284950012246425600/video/1", 
+                "id": 1284949462901641216, 
+                "id_str": "1284949462901641216", 
+                "indices": [
+                    82, 
+                    105
+                ], 
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1284949462901641216/img/3b7Ie3pLgjPyKaJa.jpg", 
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1284949462901641216/img/3b7Ie3pLgjPyKaJa.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 640, 
+                        "resize": "fit", 
+                        "w": 640
+                    }, 
+                    "medium": {
+                        "h": 640, 
+                        "resize": "fit", 
+                        "w": 640
+                    }, 
+                    "small": {
+                        "h": 640, 
+                        "resize": "fit", 
+                        "w": 640
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "video", 
+                "url": "https://t.co/TojSAYy2Fv", 
+                "video_info": {
+                    "aspect_ratio": [
+                        1, 
+                        1
+                    ], 
+                    "duration_millis": 40040, 
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL", 
+                            "url": "https://video.twimg.com/amplify_video/1284949462901641216/pl/IN-R56fxZqV-5tdP.m3u8?tag=13"
+                        }, 
+                        {
+                            "bitrate": 832000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/amplify_video/1284949462901641216/vid/480x480/5GE4Wj-mrcx07EtR.mp4?tag=13"
+                        }, 
+                        {
+                            "bitrate": 1280000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/amplify_video/1284949462901641216/vid/640x640/8rVk1oUhG22vtm7j.mp4?tag=13"
+                        }, 
+                        {
+                            "bitrate": 432000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/amplify_video/1284949462901641216/vid/320x320/LxLnNw_KraYG8vF9.mp4?tag=13"
+                        }
+                    ]
+                }
+            }
+        ]
+    }, 
+    "favorite_count": 13320, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1284950012246425600, 
+    "id_str": "1284950012246425600", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 826, 
+    "retweeted": false, 
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+    "text": "All this and more\u2026Are you tuning in? @PerryMasonHBO is on tonight at 9PM on @HBO\u2026 https://t.co/TojSAYy2Fv", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Wed Jun 17 00:12:08 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "You know who I am.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 1271, 
+        "follow_request_sent": false, 
+        "followers_count": 15382610, 
+        "following": false, 
+        "friends_count": 65, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 47786101, 
+        "id_str": "47786101", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 17573, 
+        "location": "", 
+        "name": "Robert Downey Jr", 
+        "notifications": false, 
+        "profile_background_color": "FFFFFF", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47786101/1397251488", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712016346775564289/ajnm_P3F_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "FFFFFF", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "RobertDowneyJr", 
+        "statuses_count": 678, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}
