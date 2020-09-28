@@ -1,4 +1,4 @@
-# EC601
+# EC601 Project 2 Test Tweeter APIs
 ### For Phase 1 (a), our goal is to practise and learn about twitter APIs.
 ### I wrote 5 test programs and tried in total 13 different test programs including the one given in class.
 ### I have tested the following functionalities including filtered-stream that contains methods to add, 
