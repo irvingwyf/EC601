@@ -1,0 +1,1651 @@
+Sentence #1 Sentiment score: 0.0
+Sentence #2 Sentiment score: 0.899999976158
+Sentence #3 Sentiment score: 0.5
+Sentence #4 Sentiment score: 0.899999976158
+Sentence #5 Sentiment score: -0.20000000298
+Sentence #6 Sentiment score: 0.0
+Sentence #7 Sentiment score: 0.0
+Sentence #8 Sentiment score: 0.20000000298
+Sentence #9 Sentiment score: 0.699999988079
+Sentence #10 Sentiment score: 0.10000000149
+Sentence #11 Sentiment score: -0.20000000298
+Sentence #12 Sentiment score: 0.0
+Sentence #13 Sentiment score: 0.20000000298
+Sentence #14 Sentiment score: 0.40000000596
+Sentence #15 Sentiment score: -0.699999988079
+Sentence #16 Sentiment score: 0.600000023842
+Sentence #17 Sentiment score: 0.0
+Sentence #18 Sentiment score: 0.0
+Sentence #19 Sentiment score: 0.800000011921
+Sentence #20 Sentiment score: 0.10000000149
+Sentence #21 Sentiment score: 0.899999976158
+Sentence #22 Sentiment score: 0.5
+Sentence #23 Sentiment score: 0.0
+Sentence #24 Sentiment score: 0.10000000149
+Sentence #25 Sentiment score: 0.0
+Sentence #26 Sentiment score: -0.600000023842
+Sentence #27 Sentiment score: 0.20000000298
+Sentence #28 Sentiment score: 0.0
+Score: 0.20000000298, Magnitude: 9.89999961853
+(u'u2014Team D', {}, name: "u2014Team D"
+type: OTHER
+salience: 0.0758611187339
+mentions {
+  text {
+    content: "pal"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+mentions {
+  text {
+    content: "u2014Team D"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.0758611187338829)
+(u'fantasy football charity league', {}, name: "fantasy football charity league"
+type: ORGANIZATION
+salience: 0.0704522579908
+mentions {
+  text {
+    content: "fantasy football charity league"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.0704522579908371)
+(u'@AgboLeague', {}, name: "@AgboLeague"
+type: OTHER
+salience: 0.0559676364064
+mentions {
+  text {
+    content: "@AgboLeague"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.05596763640642166)
+(u'way', {}, name: "way"
+type: OTHER
+salience: 0.0386925265193
+mentions {
+  text {
+    content: "way"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.03869252651929855)
+(u'fantasy football charity', {}, name: "fantasy football charity"
+type: ORGANIZATION
+salience: 0.0385011807084
+mentions {
+  text {
+    content: "fantasy football charity"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.038501180708408356)
+(u'WIN', {}, name: "WIN"
+type: EVENT
+salience: 0.0340112894773
+mentions {
+  text {
+    content: "WIN"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.03401128947734833)
+(u'powerhouse', {}, name: "powerhouse"
+type: LOCATION
+salience: 0.0338429398835
+mentions {
+  text {
+    content: "powerhouse"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.033842939883470535)
+(u'way', {}, name: "way"
+type: OTHER
+salience: 0.0266319513321
+mentions {
+  text {
+    content: "way"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.026631951332092285)
+(u'Boseman', {u'mid': u'/m/0bm96gr', u'wikipedia_url': u'https://en.wikipedia.org/wiki/Chadwick_Boseman'}, name: "Boseman"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/0bm96gr"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Chadwick_Boseman"
+}
+salience: 0.0239337459207
+mentions {
+  text {
+    content: "Boseman"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.02393374592065811)
+(u'https://t.co/g1jeN5pSNo""Hey Rudd', {}, name: "https://t.co/g1jeN5pSNo\"\"Hey Rudd"
+type: PERSON
+salience: 0.0201444979757
+mentions {
+  text {
+    content: "https://t.co/g1jeN5pSNo\"\"Hey Rudd"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.020144497975707054)
+(u'@agboleague', {}, name: "@agboleague"
+type: OTHER
+salience: 0.0199749059975
+mentions {
+  text {
+    content: "@agboleague"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "@agboleague"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.019974905997514725)
+(u'https://t.co/UcCGhleEDh""#FuzzytheAlpaca', {}, name: "https://t.co/UcCGhleEDh\"\"#FuzzytheAlpaca"
+type: OTHER
+salience: 0.0183422416449
+mentions {
+  text {
+    content: "https://t.co/UcCGhleEDh\"\"#FuzzytheAlpaca"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.018342241644859314)
+(u'Susan Downey', {u'mid': u'/m/05p2qsc', u'wikipedia_url': u'https://en.wikipedia.org/wiki/Susan_Downey'}, name: "Susan Downey"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/05p2qsc"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Susan_Downey"
+}
+salience: 0.0151343503967
+mentions {
+  text {
+    content: "Susan Downey"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.015134350396692753)
+(u'Census', {}, name: "Census"
+type: ORGANIZATION
+salience: 0.0144653767347
+mentions {
+  text {
+    content: "Census"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.014465376734733582)
+(u'@GwynethPaltrow https://t.co/qwLbw81Hiw""I\\u2019ve', {}, name: "@GwynethPaltrow https://t.co/qwLbw81Hiw\"\"I\\u2019ve"
+type: PERSON
+salience: 0.0133787142113
+mentions {
+  text {
+    content: "@GwynethPaltrow https://t.co/qwLbw81Hiw\"\"I\\u2019ve"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.013378714211285114)
+(u'Masons', {}, name: "Masons"
+type: PERSON
+salience: 0.0132748931646
+mentions {
+  text {
+    content: "Masons"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "Mr."
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.013274893164634705)
+(u'@Discovery', {}, name: "@Discovery"
+type: OTHER
+salience: 0.0132652586326
+mentions {
+  text {
+    content: "@Discovery"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.013265258632600307)
+(u'more', {}, name: "more"
+type: OTHER
+salience: 0.0127957630903
+mentions {
+  text {
+    content: "more"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.012795763090252876)
+(u'bit', {}, name: "bit"
+type: OTHER
+salience: 0.0127957630903
+mentions {
+  text {
+    content: "bit"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.012795763090252876)
+(u'answers', {}, name: "answers"
+type: OTHER
+salience: 0.0127321686596
+mentions {
+  text {
+    content: "answers"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.012732168659567833)
+(u'announcement', {}, name: "announcement"
+type: OTHER
+salience: 0.0126688899472
+mentions {
+  text {
+    content: "announcement"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.012668889947235584)
+(u'series', {}, name: "series"
+type: WORK_OF_ART
+salience: 0.0126376887783
+mentions {
+  text {
+    content: "series"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.012637688778340816)
+(u'trash', {}, name: "trash"
+type: OTHER
+salience: 0.0121339298785
+mentions {
+  text {
+    content: "trash"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.012133929878473282)
+(u'missus', {}, name: "missus"
+type: PERSON
+salience: 0.0116159068421
+mentions {
+  text {
+    content: "missus"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.011615906842052937)
+(u'friends', {}, name: "friends"
+type: PERSON
+salience: 0.0115176811814
+mentions {
+  text {
+    content: "friends"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.011517681181430817)
+(u'https://t.co/uxQ8JIrUq8""I', {}, name: "https://t.co/uxQ8JIrUq8\"\"I"
+type: OTHER
+salience: 0.0110065340996
+mentions {
+  text {
+    content: "https://t.co/uxQ8JIrUq8\"\"I"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.011006534099578857)
+(u'RBG https://t.co/HLtKG7qdnp""It', {}, name: "RBG https://t.co/HLtKG7qdnp\"\"It"
+type: OTHER
+salience: 0.0105268014595
+mentions {
+  text {
+    content: "RBG https://t.co/HLtKG7qdnp\"\"It"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.010526801459491253)
+(u'https://t.co/2HnUw1F5gG', {}, name: "https://t.co/2HnUw1F5gG"
+type: OTHER
+salience: 0.0105052050203
+mentions {
+  text {
+    content: "https://t.co/2HnUw1F5gG"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.010505205020308495)
+(u'I\\', {}, name: "I\\"
+type: OTHER
+salience: 0.0104308556765
+mentions {
+  text {
+    content: "I\\"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.010430855676531792)
+(u'https://t.co/lPcKwxumLK""Mr', {}, name: "https://t.co/lPcKwxumLK\"\"Mr"
+type: OTHER
+salience: 0.00973330065608
+mentions {
+  text {
+    content: "https://t.co/lPcKwxumLK\"\"Mr"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.009733300656080246)
+(u'Alfre Woodard', {u'mid': u'/m/030znt', u'wikipedia_url': u'https://en.wikipedia.org/wiki/Alfre_Woodard'}, name: "Alfre Woodard"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/030znt"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Alfre_Woodard"
+}
+salience: 0.00883376039565
+mentions {
+  text {
+    content: "Alfre Woodard"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.008833760395646095)
+(u'page', {}, name: "page"
+type: OTHER
+salience: 0.00860743969679
+mentions {
+  text {
+    content: "page"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.008607439696788788)
+(u'prizes', {}, name: "prizes"
+type: OTHER
+salience: 0.00860013999045
+mentions {
+  text {
+    content: "prizes"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.008600139990448952)
+(u'some', {}, name: "some"
+type: OTHER
+salience: 0.00859331712127
+mentions {
+  text {
+    content: "some"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.008593317121267319)
+(u'#Census2020', {}, name: "#Census2020"
+type: OTHER
+salience: 0.00854047574103
+mentions {
+  text {
+    content: "#Census2020"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.008540475741028786)
+(u'hate', {}, name: "hate"
+type: OTHER
+salience: 0.00852748844773
+mentions {
+  text {
+    content: "hate"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.008527488447725773)
+(u'bigotry', {}, name: "bigotry"
+type: OTHER
+salience: 0.00852748844773
+mentions {
+  text {
+    content: "bigotry"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.008527488447725773)
+(u'things', {}, name: "things"
+type: OTHER
+salience: 0.00852748844773
+mentions {
+  text {
+    content: "things"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.008527488447725773)
+(u'disinformation', {}, name: "disinformation"
+type: OTHER
+salience: 0.00852748844773
+mentions {
+  text {
+    content: "disinformation"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.008527488447725773)
+(u'action', {}, name: "action"
+type: OTHER
+salience: 0.0085099870339
+mentions {
+  text {
+    content: "action"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.008509987033903599)
+(u'stakes', {}, name: "stakes"
+type: OTHER
+salience: 0.00839831400663
+mentions {
+  text {
+    content: "stakes"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.008398314006626606)
+(u'@smartless', {}, name: "@smartless"
+type: OTHER
+salience: 0.00826667714864
+mentions {
+  text {
+    content: "@smartless"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.008266677148640156)
+(u'questions', {}, name: "questions"
+type: OTHER
+salience: 0.00799807067961
+mentions {
+  text {
+    content: "questions"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.007998070679605007)
+(u'season finale', {}, name: "season finale"
+type: WORK_OF_ART
+salience: 0.00799546204507
+mentions {
+  text {
+    content: "season finale"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.00799546204507351)
+(u'distancing protocols', {}, name: "distancing protocols"
+type: OTHER
+salience: 0.00788446515799
+mentions {
+  text {
+    content: "distancing protocols"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.007884465157985687)
+(u'episode', {}, name: "episode"
+type: WORK_OF_ART
+salience: 0.00788446515799
+mentions {
+  text {
+    content: "episode"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.007884465157985687)
+(u'life', {}, name: "life"
+type: OTHER
+salience: 0.00787858851254
+mentions {
+  text {
+    content: "life"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.007878588512539864)
+(u'playing field', {}, name: "playing field"
+type: OTHER
+salience: 0.00787858851254
+mentions {
+  text {
+    content: "playing field"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.007878588512539864)
+(u'heroism', {}, name: "heroism"
+type: OTHER
+salience: 0.00787305179983
+mentions {
+  text {
+    content: "heroism"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.007873051799833775)
+(u'#TheBond', {}, name: "#TheBond"
+type: OTHER
+salience: 0.00748134870082
+mentions {
+  text {
+    content: "#TheBond"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.0074813487008214)
+(u'https://t.co/kySCq7dmkA""#Brother @ChrisCuomo', {}, name: "https://t.co/kySCq7dmkA\"\"#Brother @ChrisCuomo"
+type: OTHER
+salience: 0.00728162471205
+mentions {
+  text {
+    content: "o\\u2026"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+mentions {
+  text {
+    content: "https://t.co/kySCq7dmkA\"\"#Brother @ChrisCuomo"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.007281624712049961)
+(u'times', {}, name: "times"
+type: OTHER
+salience: 0.00713238865137
+mentions {
+  text {
+    content: "times"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.007132388651371002)
+(u'$1M', {}, name: "$1M"
+type: OTHER
+salience: 0.00696075242013
+mentions {
+  text {
+    content: "$1M"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.006960752420127392)
+(u'#AGBOSuperheroLeague', {}, name: "#AGBOSuperheroLeague"
+type: PERSON
+salience: 0.00680973054841
+mentions {
+  text {
+    content: "#AGBOSuperheroLeague"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.006809730548411608)
+(u'others', {}, name: "others"
+type: PERSON
+salience: 0.00642619468272
+mentions {
+  text {
+    content: "others"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.006426194682717323)
+(u'@perrymasonhbo', {}, name: "@perrymasonhbo"
+type: OTHER
+salience: 0.00619857478887
+mentions {
+  text {
+    content: "@perrymasonhbo"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.006198574788868427)
+(u'elections', {}, name: "elections"
+type: EVENT
+salience: 0.00597917102277
+mentions {
+  text {
+    content: "elections"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.005979171022772789)
+(u'journey', {}, name: "journey"
+type: OTHER
+salience: 0.00591187318787
+mentions {
+  text {
+    content: "journey"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.005911873187869787)
+(u'husband', {}, name: "husband"
+type: PERSON
+salience: 0.00591187318787
+mentions {
+  text {
+    content: "husband"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.005911873187869787)
+(u'friends', {}, name: "friends"
+type: PERSON
+salience: 0.00554160447791
+mentions {
+  text {
+    content: "friends"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.005541604477912188)
+(u'Text FRIENDS', {}, name: "Text FRIENDS"
+type: PERSON
+salience: 0.0055390316993
+mentions {
+  text {
+    content: "Text FRIENDS"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.005539031699299812)
+(u'frien', {}, name: "frien"
+type: OTHER
+salience: 0.00553655344993
+mentions {
+  text {
+    content: "frien"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.0055365534499287605)
+(u'court\\u2019s', {}, name: "court\\u2019s"
+type: OTHER
+salience: 0.00516485050321
+mentions {
+  text {
+    content: "court\\u2019s"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.005164850503206253)
+(u'https://t.co/ch6ta5kYr1""Friends', {}, name: "https://t.co/ch6ta5kYr1\"\"Friends"
+type: PERSON
+salience: 0.00510347355157
+mentions {
+  text {
+    content: "https://t.co/ch6ta5kYr1\"\"Friends"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.005103473551571369)
+(u'#FanDuel', {}, name: "#FanDuel"
+type: OTHER
+salience: 0.00508791115135
+mentions {
+  text {
+    content: "#FanDuel"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.0050879111513495445)
+(u'TeamStark #ChadwickForever', {}, name: "TeamStark #ChadwickForever"
+type: OTHER
+salience: 0.00508791115135
+mentions {
+  text {
+    content: "TeamStark #ChadwickForever"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.0050879111513495445)
+(u'@fp_coalition', {}, name: "@fp_coalition"
+type: OTHER
+salience: 0.00508359307423
+mentions {
+  text {
+    content: "@fp_coalition"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.00508359307423234)
+(u'Freeze Instagram', {}, name: "Freeze Instagram"
+type: OTHER
+salience: 0.00503522530198
+mentions {
+  text {
+    content: "Freeze Instagram"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.005035225301980972)
+(u'@HBO', {}, name: "@HBO"
+type: OTHER
+salience: 0.00433598877862
+mentions {
+  text {
+    content: "@HBO"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.004335988778620958)
+(u'@PerryMasonHBO', {}, name: "@PerryMasonHBO"
+type: PERSON
+salience: 0.00433598877862
+mentions {
+  text {
+    content: "@PerryMasonHBO"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.004335988778620958)
+(u'session', {}, name: "session"
+type: EVENT
+salience: 0.00413744710386
+mentions {
+  text {
+    content: "session"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.004137447103857994)
+(u'bits', {}, name: "bits"
+type: OTHER
+salience: 0.00413337303326
+mentions {
+  text {
+    content: "bits"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.004133373033255339)
+(u'@hbo', {}, name: "@hbo"
+type: OTHER
+salience: 0.00397999584675
+mentions {
+  text {
+    content: "@hbo"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.003979995846748352)
+(u'Q&amp', {}, name: "Q&amp"
+type: PERSON
+salience: 0.00349380495027
+mentions {
+  text {
+    content: "Q&amp"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.0034938049502670765)
+(u'Matthew Rhys', {u'mid': u'/m/07rz24', u'wikipedia_url': u'https://en.wikipedia.org/wiki/Matthew_Rhys'}, name: "Matthew Rhys"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/07rz24"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Matthew_Rhys"
+}
+salience: 0.00349380495027
+mentions {
+  text {
+    content: "Matthew Rhys"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.0034938049502670765)
+(u'P.I', {}, name: "P.I"
+type: ORGANIZATION
+salience: 0.00349380495027
+mentions {
+  text {
+    content: "P.I"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.0034938049502670765)
+(u'Esq.', {}, name: "Esq."
+type: LOCATION
+salience: 0.00349380495027
+mentions {
+  text {
+    content: "Esq."
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.0034938049502670765)
+(u'SEASON FINALE', {}, name: "SEASON FINALE"
+type: EVENT
+salience: 0.00295235100202
+mentions {
+  text {
+    content: "SEASON FINALE"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.002952351002022624)
+(u'@perrymasonhbo', {}, name: "@perrymasonhbo"
+type: PERSON
+salience: 0.00271882512607
+mentions {
+  text {
+    content: "@perrymasonhbo"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.002718825126066804)
+(u'list', {}, name: "list"
+type: OTHER
+salience: 0.00259745749645
+mentions {
+  text {
+    content: "list"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.0025974574964493513)
+(u'classics', {}, name: "classics"
+type: WORK_OF_ART
+salience: 0.00259745749645
+mentions {
+  text {
+    content: "classics"
+    begin_offset: -1
+  }
+  type: COMMON
+}
+, <type 'type'>, 0.0025974574964493513)
+(u'#AnthonyMichaelHall', {}, name: "#AnthonyMichaelHall"
+type: OTHER
+salience: 0.00153464847244
+mentions {
+  text {
+    content: "#AnthonyMichaelHall"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.001534648472443223)
+(u'@RadPowerBikes', {}, name: "@RadPowerBikes"
+type: CONSUMER_GOOD
+salience: 0.00153372669592
+mentions {
+  text {
+    content: "@RadPowerBikes"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.0015337266959249973)
+(u'#radrunner', {}, name: "#radrunner"
+type: PERSON
+salience: 0.00153284834232
+mentions {
+  text {
+    content: "#radrunner"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.001532848342321813)
+(u'#ebikes', {}, name: "#ebikes"
+type: CONSUMER_GOOD
+salience: 0.00153284834232
+mentions {
+  text {
+    content: "#ebikes"
+    begin_offset: -1
+  }
+  type: PROPER
+}
+, <type 'type'>, 0.001532848342321813)
+(u'Sept. 30', {u'day': u'30', u'month': u'9'}, name: "Sept. 30"
+type: DATE
+metadata {
+  key: "day"
+  value: "30"
+}
+metadata {
+  key: "month"
+  value: "9"
+}
+mentions {
+  text {
+    content: "Sept. 30"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+(u's $1M', {u'currency': u'SGD', u'value': u'1000000.000000'}, name: "s $1M"
+type: PRICE
+metadata {
+  key: "currency"
+  value: "SGD"
+}
+metadata {
+  key: "value"
+  value: "1000000.000000"
+}
+mentions {
+  text {
+    content: "s $1M"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+(u'9', {u'value': u'9'}, name: "9"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "9"
+}
+mentions {
+  text {
+    content: "9"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+(u'9', {u'value': u'9'}, name: "9"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "9"
+}
+mentions {
+  text {
+    content: "9"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+(u'1M', {u'value': u'1000000.000000'}, name: "1M"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "1000000.000000"
+}
+mentions {
+  text {
+    content: "1M"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+(u'5', {u'value': u'5'}, name: "5"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "5"
+}
+mentions {
+  text {
+    content: "5"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+(u'4', {u'value': u'4'}, name: "4"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "4"
+}
+mentions {
+  text {
+    content: "4"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+(u'26797', {u'value': u'26797'}, name: "26797"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "26797"
+}
+mentions {
+  text {
+    content: "26797"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+(u'2', {u'value': u'2'}, name: "2"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "2"
+}
+mentions {
+  text {
+    content: "2"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+(u'4', {u'value': u'4'}, name: "4"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "4"
+}
+mentions {
+  text {
+    content: "4"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+(u'30', {u'value': u'30'}, name: "30"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "30"
+}
+mentions {
+  text {
+    content: "30"
+    begin_offset: -1
+  }
+}
+, <type 'type'>, 0.0)
+PUNCT: "
+NOUN: Time
+PRT: to
+VERB: get
+NOUN: week
+NUM: 4
+ADP: of
+DET: the
+ADP: @
+NOUN: AgboLeague
+NOUN: fantasy
+NOUN: football
+NOUN: charity
+NOUN: league
+VERB: started
+PUNCT: ...
+DET: What
+ADJ: better
+NOUN: way
+ADP: than
+PRT: to
+VERB: rub
+PRON: my
+NOUN: pal
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/g1jeN5pSNo""Hey
+NOUN: Rudd
+NOUN: \
+NOUN: u2014Team
+NOUN: D
+ADP: for
+DET: the
+NOUN: WIN
+ADP: in
+NOUN: week
+NUM: 4
+PUNCT: !
+PUNCT: !
+PUNCT: !
+ADV: More
+ADV: importantly
+PRON: we
+NOUN: \
+VERB: u2019re
+VERB: playing
+ADP: in
+DET: the
+X: @
+NOUN: agboleague
+NOUN: fantasy
+NOUN: football
+NOUN: charity
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/iWqeBl0yMq""HBD
+ADP: to
+DET: this
+ADJ: absolute
+NOUN: powerhouse
+PUNCT: .
+PRON: You
+VERB: deserve
+DET: all
+DET: the
+ADJ: best
+NOUN: today
+PUNCT: ...
+CONJ: and
+ADV: then
+DET: a
+ADJ: little
+NOUN: bit
+ADJ: more
+PUNCT: .
+ADP: @
+NOUN: GwynethPaltrow
+NOUN: https://t.co/qwLbw81Hiw""I\u2019ve
+VERB: got
+NOUN: questions
+PUNCT: .
+NOUN: Alfre
+NOUN: Woodard
+VERB: has
+DET: the
+NOUN: answers
+PUNCT: .
+NOUN: Census
+VERB: ends
+NOUN: Sept.
+NUM: 30
+PUNCT: .
+NOUN: #
+NOUN: Census2020
+PUNCT: .
+NOUN: https://t.co/UcCGhleEDh""#FuzzytheAlpaca
+VERB: has
+DET: an
+ADJ: exciting
+NOUN: announcement
+PUNCT: .
+NOUN: #
+NOUN: TheBond
+VERB: will
+VERB: air
+PRT: on
+ADP: @
+NOUN: Discovery
+PUNCT: !
+PRON: Our
+NOUN: series
+VERB: dives
+PRT: in
+ADP: to
+DET: the
+ADJ: wondrous
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/pCjLgrWXy0""\"Fight
+ADP: for
+DET: the
+NOUN: things
+PRON: you
+VERB: care
+ADP: about
+PUNCT: ,
+CONJ: but
+VERB: do
+PRON: it
+ADP: in
+DET: a
+NOUN: way
+DET: that
+VERB: will
+VERB: lead
+NOUN: others
+PRT: to
+VERB: join
+NOUN: you.
+NOUN: \
+PUNCT: "
+NOUN: RIP
+PUNCT: ,
+NOUN: RBG
+NOUN: https://t.co/HLtKG7qdnp""It
+PRT: 's
+NOUN: time
+PRT: to
+VERB: stop
+NOUN: hate
+PUNCT: ,
+NOUN: bigotry
+PUNCT: ,
+CONJ: and
+NOUN: disinformation
+PUNCT: .
+NOUN: Freeze
+NOUN: Instagram
+NOUN: today
+ADP: with
+PRON: me
+PUNCT: .
+NOUN: #
+NOUN: StopHateForProfit
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/TJzOejfGT0""Watch
+DET: all
+DET: the
+NOUN: action
+VERB: play
+PRT: out
+ADP: on
+NOUN: https://t.co/2HnUw1F5gG
+PUNCT: .
+VERB: Peep
+PRT: out
+DET: the
+X: @
+NOUN: agboleague
+NOUN: page
+NOUN: #
+NOUN: TeamStark
+NOUN: #
+NOUN: ChadwickForever
+PUNCT: "
+PUNCT: "
+DET: This
+NOUN: year
+PUNCT: ,
+NOUN: thanks
+ADP: to
+NOUN: #
+NOUN: FanDuel
+DET: the
+NOUN: stakes
+VERB: are
+ADJ: higher
+ADP: than
+ADV: ever
+ADV: before
+PUNCT: !
+DET: There
+NOUN: \
+PRT: u2019s
+NOUN: $1
+NOUN: M
+ADP: in
+NOUN: prizes
+CONJ: and
+ADP: @
+NOUN: fp_coalition
+VERB: is
+NOUN: m
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/5I1oMXYEXF""And
+PRON: we
+NOUN: \
+VERB: u2019re
+ADV: back
+PUNCT: ...
+VERB: let
+DET: the
+NOUN: trash
+VERB: talking
+VERB: begin
+PUNCT: .
+DET: The
+NOUN: #
+NOUN: AGBOSuperheroLeague
+VERB: has
+VERB: assembled
+DET: some
+ADP: of
+PRON: my
+ADJ: closest
+NOUN: friends
+CONJ: and
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/uxQ8JIrUq8""I
+VERB: was
+ADJ: able
+PRT: to
+VERB: practice
+ADJ: safe
+NOUN: distancing
+NOUN: protocols
+CONJ: and
+VERB: participate
+ADP: in
+DET: the
+ADJ: latest
+NOUN: episode
+ADP: of
+ADP: @
+NOUN: smartless
+PUNCT: ...
+PRT: out
+ADV: now
+PUNCT: !
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/lPcKwxumLK""Mr
+PUNCT: .
+NOUN: Boseman
+VERB: leveled
+DET: the
+NOUN: playing
+NOUN: field
+ADP: while
+VERB: fighting
+ADP: for
+PRON: his
+NOUN: life
+PUNCT: ...
+DET: That
+NOUN: \
+PRT: u2019s
+NOUN: heroism
+PUNCT: .
+NOUN: I
+NOUN: \
+VERB: u2019ll
+VERB: remember
+DET: the
+ADJ: good
+NOUN: times
+PUNCT: ,
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/dhskXad2cE""https://t.co/l8NvrQYkAH""Look
+PRON: what
+PRON: we
+VERB: have
+ADV: here
+PUNCT: !
+NOUN: #
+NOUN: AnthonyMichaelHall
+VERB: has
+VERB: unearthed
+DET: a
+NOUN: couple
+NOUN: #
+NOUN: classics
+ADP: from
+PRON: our
+ADJ: limited
+NOUN: list
+PUNCT: ...
+X: Please
+VERB: come
+NOUN: o
+NOUN: \
+NOUN: u2026
+NOUN: https://t.co/kySCq7dmkA""#Brother
+ADP: @
+NOUN: ChrisCuomo
+CONJ: and
+PRON: I
+PUNCT: #
+NOUN: summer
+NOUN: lovin
+NOUN: \
+NOUN: u2019
+CONJ: and
+VERB: appreciating
+DET: these
+ADP: @
+NOUN: RadPowerBikes
+PUNCT: ...
+NOUN: #
+NOUN: riderad
+NOUN: #
+NOUN: ebikes
+NOUN: #
+NOUN: radrunner
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/CltXrYsDCQ""It\u2019s
+DET: all
+VERB: been
+VERB: leading
+ADP: to
+DET: this
+PUNCT: !
+VERB: Tune
+PRT: in
+ADP: for
+DET: the
+NOUN: SEASON
+NOUN: FINALE
+ADP: of
+ADP: @
+NOUN: perrymasonhbo
+ADP: at
+NOUN: 9pm
+ADP: on
+X: @
+NOUN: hbo
+PUNCT: ...
+VERB: stick
+ADV: around
+CONJ: and
+NOUN: L
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/hqVw4snBMC""SPOILER
+NOUN: ALERT
+PUNCT: !
+VERB: Tune
+PRT: in
+ADP: for
+DET: a
+NOUN: Q&amp
+PUNCT: ;
+DET: A
+ADP: with
+NOUN: Matthew
+NOUN: Rhys
+CONJ: and
+PRON: me
+ADP: before
+PRON: you
+VERB: watch
+DET: the
+NOUN: season
+NOUN: finale
+ADP: of
+ADP: @
+NOUN: perrymasonhbo
+DET: this
+NOUN: \
+NOUN: u2026
+NOUN: https://t.co/ErQ9IkcpR0""Please
+VERB: join
+NOUN: Susan
+NOUN: Downey
+CONJ: and
+PRON: her
+ADJ: semi-articulate
+NOUN: husband
+ADP: as
+PRON: they
+VERB: discuss
+NOUN: Mr.
+NOUN: Masons
+NOUN: journey
+ADP: from
+NOUN: P.I
+ADP: to
+NOUN: Esq.
+PUNCT: ,
+CONJ: and
+NOUN: h
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/oPBvAhl5JH""Tonight
+PUNCT: ,
+NOUN: court
+NOUN: \
+NOUN: u2019s
+ADP: in
+NOUN: session
+PUNCT: .
+ADP: @
+NOUN: PerryMasonHBO
+ADP: at
+NUM: 9
+NOUN: PM
+ADP: on
+ADP: @
+NOUN: HBO
+PUNCT: .
+DET: The
+NOUN: missus
+CONJ: and
+PRON: I
+VERB: are
+VERB: getting
+ADJ: ready
+ADP: with
+DET: a
+ADJ: few
+NOUN: bits
+CONJ: and
+NOUN: \
+PRT: u2026
+NOUN: https://t.co/ch6ta5kYr1""Friends
+VERB: do
+ADV: n't
+VERB: let
+NOUN: friends
+VERB: skip
+NOUN: elections
+PUNCT: .
+NOUN: Text
+NOUN: FRIENDS
+ADP: to
+NUM: 26797
+PRT: to
+VERB: make
+ADJ: sure
+PRON: you
+VERB: are
+VERB: registered
+PUNCT: .
+CONJ: And
+VERB: tag
+PRON: your
+NOUN: frien
+NOUN: \
+NOUN: u2026
+NOUN: https://t.co/FPPt08APzA
+PUNCT: "
