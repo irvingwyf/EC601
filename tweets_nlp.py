@@ -71,7 +71,7 @@ annotation = client.analyze_sentiment(document = text)
 score = annotation.document_sentiment.score 
 magnitude = annotation.document_sentiment.magnitude 
 
-f = open("tweet_npl.txt", 'w')
+f = open("tweet_nlp.txt", 'w')
 sys.stdout = f
 
 for index, sentence in enumerate(annotation.sentences): 
